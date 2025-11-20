@@ -1,0 +1,1 @@
+# AI_REA_rental_prices
